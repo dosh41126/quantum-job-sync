@@ -208,7 +208,7 @@ Output is saved as Markdown files in the job_applicator_v6_data/ directory.
 
 ---
 
-🧩 Final Thoughts
+# 🧩 Final Thoughts
 
 job_applicator_v6.py is one of those rare artifacts that blurs the line between script and self-expression. It isn't just a job bot—it’s a career co-pilot, a mentor, and an emotional proxy.
 
